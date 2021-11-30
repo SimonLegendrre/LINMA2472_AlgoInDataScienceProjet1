@@ -4,7 +4,7 @@
 69,Arkansas,AR,71601,72959
 8,Arkansas (Texarkana),AR,75502,75502
 7,Arizona,AZ,85001,86556
-9,california,CA,90001,96162
+9,California,CA,90001,96162
 10,Colorado,CO,80001,81658
 11,Connecticut,CT,6001,6389
 73,Connecticut,CT,6401,6928
@@ -33,7 +33,7 @@
 24,Maine,ME,3901,4992
 27,Michigan,MI,48001,49971
 28,Minnesota,MN,55001,56763
-57,Missouri,MO,63001,65899
+57,kc96 DataMO,MO,63001,65899
 29,Mississippi,MS,38601,39776
 59,Mississippi(Warren),MS,71233,71233
 31,Montana,MT,59001,59937
@@ -43,7 +43,7 @@
 32,Nebraska,NE,68122,69367
 34,New Hampshire,NH,3031,3897
 35,New Jersey,NJ,7001,8989
-36,Mexico,NM,87001,88441
+36,New Mexico,NM,87001,88441
 33,Nevada,NV,88901,89883
 60,New York (Fishers Is),NY,6390,6390
 37,New York,NY,10001,14975
@@ -60,7 +60,7 @@
 49,Texas (Austin),TX,73301,73301
 71,Texas,TX,75001,75501
 72,Texas,TX,75503,79999
-61,Texas,TX,88510,88589
+61,Texas (El Paso),TX,88510,88589
 50,Utah,UT,84001,84784
 64,Virginia,VA,20040,20041
 75,Virginia,VA,20040,20167
